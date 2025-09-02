@@ -143,6 +143,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+AzuriteConfig
+__azurite_db_table__.json
 
 # Spyder project settings
 .spyderproject
